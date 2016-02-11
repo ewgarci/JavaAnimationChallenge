@@ -19,9 +19,9 @@ You may assume the following constraints:
 
 0) 2, "..R...." Returns:
 
-'''
+```
 { "..X....",
   "....X..",
   "......X",
   "......." }
-'''
+```
